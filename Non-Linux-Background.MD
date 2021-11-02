@@ -28,5 +28,5 @@
 
 # Access the detailed Learning LAB Pre-Requisites
 
-    [Link to Learning LAB Pre-Requisites ](https://github.com/cloudnloud/Learning-RoadMap/blob/main/pre-requisities.MD)
+   [a link] (https://github.com/cloudnloud/Learning-RoadMap/blob/main/pre-requisities.MD)
 
