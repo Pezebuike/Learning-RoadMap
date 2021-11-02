@@ -9,11 +9,12 @@
 
 ## you need 2 VM's either in cloud or in your local laptop
 
-|Purpose|Machine|CPU|Memory| Disk | OS  |
-|---	|---	|---|----   |-----|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
+| Purpose   | VM Name | CPU | Memory | Disk  | Operating System |
+| -------   | ------- | --- | ------ | ----  | ---------------- |
+| Machine 1 | Server  |  1  | 1 GB   | 50 GB | CentOS / RHEL    |
+| Machine 1 | Server  |  1  | 1 GB   | 50 GB | CentOS / RHEL    |
+| Machine 1 | Server  |  1  | 1 GB   | 50 GB | CentOS / RHEL    |
+| Machine 1 | Server  |  1  | 1 GB   | 50 GB | CentOS / RHEL    |
 Linux Learning - 90% of the concepts you need 2 linux machines like below
 
 machine 1 - server - 1 GB memory / 1 CPU / minimum 50 GB HDD / OS - Linux
