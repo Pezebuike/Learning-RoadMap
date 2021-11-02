@@ -1,7 +1,7 @@
-# Want to Learn Cloud ?
-# Want to Learn DevOps ?
-# No time to Learn Linux In depth?
-# If you need to get on to JOB ASAP in Cloud or DevOps ?
+# 🤔  Want to Learn Cloud ?
+# 🤔 Want to Learn DevOps ?
+# 🤔 No time to Learn Linux In depth?
+# 🤔 If you need to get on to JOB ASAP in Cloud or DevOps ?
 
 
 ** If person is good in the following linux topics ,then they can easily learn devops ansible,cloud and devops tools.**
@@ -25,3 +25,8 @@
 - How to create /24 and /23 vlans ?
 - Layer 2 and Layer 3 networking ?
 - Basic Networking knowledge – CLASS A,CLASS B , CLASS C
+
+# Access the detailed Learning LAB Pre-Requisites
+
+    [Link to Learning LAB Pre-Requisites ](https://github.com/cloudnloud/Learning-RoadMap/blob/main/pre-requisities.MD)
+
