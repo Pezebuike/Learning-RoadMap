@@ -28,7 +28,7 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 - 📫 How to reach me: vijay@cloudnloud.com.
 
 ### Find All Cloud/DevOps Architect Trainings Learning LAB Pre-Requisites :
-  
+👇
   * Refer -  https://github.com/cloudnloud/Learning-RoadMap/blob/main/pre-requisities.MD
 
 ### Find All Cloud/DevOps Architect Trainings with Step-by-Step Handson with Use cases:
