@@ -2,7 +2,7 @@
 
 # If you looking to learn via hands on then spend sometime in each line
 
-# Each Training lab needs are different
+- ** Each Training lab needs are different **
 
 
 # Linux Administration Training
@@ -12,9 +12,10 @@
 | Purpose   | VM Name | CPU | Memory | Disk  | Operating System |
 | -------   | ------- | --- | ------ | ----  | ---------------- |
 | Machine 1 | Server  |  1  | 1 GB   | 50 GB | CentOS / RHEL    |
-| Machine 1 | Server  |  1  | 1 GB   | 50 GB | CentOS / RHEL    |
-| Machine 1 | Server  |  1  | 1 GB   | 50 GB | CentOS / RHEL    |
-| Machine 1 | Server  |  1  | 1 GB   | 50 GB | CentOS / RHEL    |
+| Machine 2 | Client  |  1  | 1 GB   | 50 GB | CentOS / RHEL    |
+
+
+
 Linux Learning - 90% of the concepts you need 2 linux machines like below
 
 machine 1 - server - 1 GB memory / 1 CPU / minimum 50 GB HDD / OS - Linux
