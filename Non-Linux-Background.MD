@@ -1,10 +1,10 @@
-# want to Learn Cloud ?
+# Want to Learn Cloud ?
 # Want to Learn DevOps ?
 # No time to Learn Linux In depth?
-# if you need to get on to JOB ASAP in Cloud or DevOps ?
+# If you need to get on to JOB ASAP in Cloud or DevOps ?
 
 
-- ** If person is good in the following linux topics ,then they can easily learn devops ansible,cloud and devops tools.**
+** If person is good in the following linux topics ,then they can easily learn devops ansible,cloud and devops tools.**
 
 - How to apply patch or How to install package
 - How to edit the file or create new file using vim and nano editor
