@@ -29,4 +29,5 @@
 # Access the detailed Learning LAB Pre-Requisites
 
    [a link] (https://github.com/cloudnloud/Learning-RoadMap/blob/main/pre-requisities.MD)
+   [I'm an inline-style link](https://www.google.com)
 
