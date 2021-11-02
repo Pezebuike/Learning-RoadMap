@@ -5,7 +5,7 @@
 - ** Each Training lab requirements are different **
 
 - ** Creating Google cloud account is completely free for 3 months.You can use your credit card to activate it.
-- ** Google will charge 2 $ to verify geniuneness and repay
+- ** Google will charge 2 $ to verify genuineness and repay
 - ** After 3 months free-tier period,google never charge anything auto-debit.
 
 
