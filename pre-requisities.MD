@@ -18,13 +18,13 @@
 
 # AWS Learning prerequisites
 
-- ** AWS training make sure the following in your laptop.It should be your personal laptop.so that you can install all software during handson.**
+** AWS training make sure the following in your laptop.It should be your personal laptop.so that you can install all software during handson.**
 
-- 1. You need activated aws.amazon.com login account.
-- 2. MSOFFICE software installed
-- 3. Download putty from the following link
+  - You need activated aws.amazon.com login account.
+  - MSOFFICE software installed
+  - Download putty from the following link
 
-[Link to Putty Download ](https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe)
+     [Link to Putty Download ](https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe)
 
 
 4. Download puttygen from the following link
