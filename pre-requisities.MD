@@ -1,7 +1,19 @@
-Thanks for your query.
+# CLOUD / DevOps Learning lab needs
 
-It all depends on what you are learning.
+# If you looking to learn via hands on then spend sometime in each line
 
+# Each Training lab needs are different
+
+
+# Linux Administration Training
+
+## you need 2 VM's either in cloud or in your local laptop
+
+|Purpose|Machine|CPU|Memory| Disk | OS  |
+|---	|---	|---|----   |-----|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
 Linux Learning - 90% of the concepts you need 2 linux machines like below
 
 machine 1 - server - 1 GB memory / 1 CPU / minimum 50 GB HDD / OS - Linux
