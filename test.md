@@ -90,83 +90,11 @@ https://www.linkedin.com/in/umes-khan-738b7b20a
 https://www.linkedin.com/in/kiran-more-9412444a/
 https://www.linkedin.com/in/kiran-more-9412444a/
 https://www.linkedin.com/in/almas-labbai
-=======
-* Refer -  https://www.linkedin.com/in/naga-venkata-sai-gadamsetty-3071a7122
-https://www.linkedin.com/in/parthvora27
-https://www.linkedin.com/in/parthvora27
-https://www.linkedin.com/in/rohidas-lande-045b8b121
-https://www.linkedin.com/in/syed-mohamed-ali-6b40ab101
-https://www.linkedin.com/in/saddam-basha-ab4829184
-https://www.linkedin.com/in/hari007doss
-https://www.linkedin.com/in/subaranjana
-https://www.linkedin.com/in/gopala-krishnan-r-700470205
-https://www.linkedin.com/in/shashikant-shukla-660151154
-https://www.linkedin.com/in/praveenpusarla
-https://www.linkedin.com/in/mohammad-faisal-3689a8131
-https://www.linkedin.com/in/sai-kuppala-7652a0229
-https://www.linkedin.com/in/sraddepalli/
-https://www.linkedin.com/in/sajeeth-kannan-mahendran-ab8a5b67
-https://www.linkedin.com/in/muhammad-soban-601570183/
-https://www.linkedin.com/in/shiva-prasad-bobbala-0ba8ba129
-https://www.linkedin.com/in/sravya-mittapalli-5b76601aa
-https://www.linkedin.com/in/venkatesh-radhakrishnan-270a13105
-https://www.linkedin.com/in/ashutoshdhande
-https://www.linkedin.com/in/ismailmohd007
-https://www.linkedin.com/in/vasanth-n700/
-https://www.linkedin.com/in/hari-m-b76b7b65
-
-
-* Refer -  https://www.linkedin.com/in/viral-desai-75649521/
-https://www.linkedin.com/in/manju-nath-972450199
-https://www.linkedin.com/in/prince-utreja
-https://www.linkedin.com/in/mohammed-zakir-a7a26734
-https://www.linkedin.com/in/lakshman-kumar-dadi-0791511ab
-https://www.linkedin.com/in/akshay-aher-255873192
-https://www.linkedin.com/in/umesh-pandey-b4218236
-https://www.linkedin.com/in/balaji-vangaru
-https://www.linkedin.com/in/tanmaymore
-https://www.linkedin.com/in/shaik-afroz-alam-018798224
-https://www.linkedin.com/in/shanmugam-sreenivasan-360955212
-https://www.linkedin.com/in/sai-sunil-anusuri-80ba46121/
-https://www.linkedin.com/in/ashish-arya-70080b39
-https://www.linkedin.com/in/ananay-ojha
-http://linkedin.com/in/mrutunjay-singh-735aa7b1
-https://www.linkedin.com/in/muthuraj-anbalagan-18a35963
-https://www.linkedin.com/in/ramraj-sekar
-https://Rajeshjothilingam@yahoo.com
-https://www.linkedin.com/in/giridhar-kuppam-330ab0125
-https://linked.com/khemnathchauhan
-https://www.linkedin.com/in/rajesh-tamminidi-49810912b
-https://www.linkedin.com/in/soumya-mallick-939a8411/
-https://www.linkedin.com/in/sagar-srivastava-37171a156
-https://in.linkedin.com/in/amit-kumar-377286a
-https://www.linkedin.com/in/sharansakthi-thamizharasan
-https://www.linkedin.com/in/saravanan-u-707256142
-https://www.linkedin.com/in/punit-mandelia-44690072/
-
-
-* Refer -  
-https://www.linkedin.com/in/aneesh-mathew-800an9799
-http://www.linkedin.com/in/harshita-kumari/
-https://www.linkedin.com/in/nijamudeen-a-a23420160/
-https://www.linkedin.com/in/ronak-prajapati19/
-https://www.linkedin.com/in/vijaystack/
-https://www.linkedin.com/in/dineshkulasekaran/
-https://www.linkedin.com/in/kishore-g-197ba3202
-https://www.linkedin.com/public-profile/settings
-https://Bhanu%20Prasad
->>>>>>> 6c6c3b4d41580cc56455411a5853c3c2fb696415
 https://www.linkedin.com/in/harsh-thakare
 https://jatinkumar.co
 https://www.linkedin.com/in/sushrut-babhulkar
 https://www.linkedin.com/in/prajisha-raj-k-02706310a/
 https://www.linkedin.com/in/sreenistack/
-<<<<<<< HEAD
-=======
-
-
-* Refer -  
->>>>>>> 6c6c3b4d41580cc56455411a5853c3c2fb696415
 http://linkdin.com/in/madiwalappapati
 https://www.linkedin.com/in/abhishekkishor/
 https://www.linkedin.com/in/venkata-saibabu-6353a8219/
@@ -184,11 +112,6 @@ https://www.linkedin.com/in/kalaivanan-varatharajan-ab854927/
 https://www.linkedin.com/in/rajkumar-sivaraman-6806a433
 https://www.linkedin.com/in/nbompally
 https://www.linkedin.com/in/chetankulkarni87/
-<<<<<<< HEAD
-=======
-
-* Refer -  
->>>>>>> 6c6c3b4d41580cc56455411a5853c3c2fb696415
 https://www.linkedin.com/in/muhasan/
 https://www.linkedin.com/in/yamini-v-41731015a
 https://www.linkedin.com/in/vinod-bathi-25814446
@@ -206,13 +129,7 @@ https://www.linkedin.com/in/gajanan-sontakke
 https://www.linkedin.com/in/aliya-firdhose-84843315a
 https://www.linkedin.com/in/manojkumar-pienti-b064011b8/
 https://www.linkedin.com/in/aireddy-dinesh
-<<<<<<< HEAD
 https://www.linkedin.com/in/aireddy-dinesh
-=======
-
-
-* Refer -  
->>>>>>> 6c6c3b4d41580cc56455411a5853c3c2fb696415
 https://www.linkedin.com/in/mhdraficse/
 https://www.linkedin.com/in/omkar-sawant-3176821b5
 https://www.linkedin.com/in/khaja143/
@@ -223,7 +140,6 @@ http://linkedin.com/in/fatin-sheriff-a910b7215
 https://www.linkedin.com/in/sanket-kadam-3a054192
 http://linkedin.com/in/durai-raja-pandian-alagarsamy-582a6b129
 https://www.linkedin.com/in/srinatha-s-197bb212a
-<<<<<<< HEAD
 https://www.linkedin.com/in/balasubramanyam-a-b62228105
 https://www.linkedin.com/in/giridhar-a-0954b02/
 https://www.linkedin.com/in/ashutosh-behera-1481a4154
@@ -243,7 +159,7 @@ https://www.linkedin.com/in/saipreethi-reddy-a81053220
 https://www.linkedin.com/in/md-shaluddin-6395b0225
 https://linkedln.com/valentine-ntobo
 https://www.linkedin.com/in/mohammed-muddassir/
-https:/www.linkedin.com/in/helenchukwukelu 
+https:/www.linkedin.com/in/helenchukwukelu
 https://www.linkedin.com/in/shivanand-singh-0704a9212
 https://www.linkedin.com/in/mahimairajm
 https://www.linkedin.com/in/tanuja-pothuraju-1168601b2/
@@ -324,48 +240,3 @@ http://linkedin.com/in/dibyajyoti-das-18445175
 https://www.linkedin.com/in/akash-akki-109361196
 https://www.linkedin.com/in/oluwole-fagbemi-945b50207
 https://www.linkedin.com/in/avinash-akshanthala-339351128/
-=======
-https://www.linkedin.com/in/naveen-mohan-228b9115
-https://www.linkedin.com/in/syed-ghouse-mohiuddin-60b551159
-https://www.linkedin.com/in/sivaramanjanakam
-https://www.linkedin.com/in/sathyanarayana-k
-https://www.linkedin.com/feed/
-https://www.linkedin.com/in/jony-agarwal-93164b17a
-https://www.linkedin.com/in/arikrishnan-thanavelu-82614036
-https://www.linkedin.com/in/shailesh-chaudhari-2966b7194
-https://www.linkedin.com/in/tanmaymore
-
-* Refer -  
-https://www.linkedin.com/in/tausif-alam-572a76137/
-https://www.linkedin.com/in/shrihan-chinta-004098190/
-https://www.linkedin.com/in/harsha-deep-93434b179
-https://www.linkedin.com/in/kranthikuruva
-https://www.linkedin.com/in/sudheer-kolluri-515629166
-https://www.linkedin.com/in/azim-tamboli-8b1434220
-https://www.linkedin.com/in/katta-surya-narayana-66331717b
-https://www.linkedin.com/in/sanjay-surwase/
-https://www.linkedin.com/in/kiran-kumar-98222428/
-https://www.linkedin.com/in/sai-phaneendra-allamraju-4a1061105/
-https://www.linkedin.com/in/sreekanth-kurapati-a8846a5b
-https://www.linkedin.com/in/aman-sharma-44b1071b8
-https://www.linkedin.com/in/ankur-tyagi-5555872a/
-https://www.linkedin.com/in/premchandganji
-http://www.linkedin.com/in/pavan-p-agarwadekar-531b1032
-https://www.linkedin.com/in/nirushan-pushparajah-75b006b8
-https://www.linkedin.com/in/selva-raj-4ba7649b
-https://www.linkedin.com/in/suresh-kumar-57064b36/
-https://www.linkedin.com/in/javeed-mohammed-16771088/
-https://www.linkedin.com/in/jegadeesh-arjunan-4802915a
-https://www.linkedin.com/in/aarthi-ranganathan-86854113b
-https://www.linkedin.com/in/archanaserver/
-https://www.linkedin.com/in/dilli-raj-40194559
-https://www.linkedin.com/in/sathyaraj-durai-3b043a1b9
-https://www.linkedin.com/in/moin-khan-1b6470189/
-https://www.linkedin.com/in/sai-phaneendra-allamraju-4a1061105/
-https://www.linkedin.com/in/dhasaratha-reddy-2a5b50220
-https://www.linkedin.com/in/v-dinesh
-https://www.linkedin.com/in/umes-khan-738b7b20a
-https://www.linkedin.com/in/kiran-more-9412444a/
-https://www.linkedin.com/in/kiran-more-9412444a/
-https://www.linkedin.com/in/almas-labbai
->>>>>>> 6c6c3b4d41580cc56455411a5853c3c2fb696415
