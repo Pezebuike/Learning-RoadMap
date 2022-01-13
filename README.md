@@ -48,19 +48,3 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 <a href="https://fb.com/cloudnloudtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cloudnloudtech" height="30" width="40" /></a>
 <a href="https://twitter.com/cloudnloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cloudnloud" height="30" width="40" /></a>
 </p>
-
- 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=cloudnloud)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudnloud)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudnloud&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cloudnloud)  
-
-![GitHub metrics](https://metrics.lecoq.io/cloudnloud)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=cloudnloud)  
-
-![Profile views](https://gpvc.arturio.dev/cloudnloud)
