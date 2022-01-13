@@ -45,7 +45,33 @@
 
   - Those who want to test route53 DNS across geography then you can register your own domain name.I will tell you day 2 for this.It is not mandatory.
 
+# AZURE Learning LAB Pre-Requisites
 
+** AZURE training make sure the following in your laptop.It should be your personal laptop.so that you can install all software during handson.**
+
+  - You need activated portal.azure.com login account.
+  - MSOFFICE software installed
+  - Download putty from the following link
+
+     [Link to Putty Download ](https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe)
+
+
+  - Download puttygen from the following link
+
+     [Link to PuttyGenerator Download ](https://the.earth.li/~sgtatham/putty/latest/w64/puttygen.exe) 
+     
+    - If you dont like putty then you can download putty alternative called mobaxterm software from the following link
+     [Link to Mobaxterm Download ](https://mobaxterm.mobatek.net/download-home-edition.html)
+
+  - Notepad ++ software installed
+  - 3 browsers should be there in the laptop
+  - tunnelbear vpn software installed.You create account in tunnelbear and make sure you have noted username and password.
+
+  - you can downlad tunnelbear software from the following link
+ 
+      [Link to TunnelBearVPN Software Download ](https://www.tunnelbear.com/download)
+
+ 
 
 # ANSIBLE Learning LAB Pre-Requisites
 
