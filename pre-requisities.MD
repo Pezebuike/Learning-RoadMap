@@ -78,6 +78,9 @@
 
 # ANSIBLE Learning LAB Pre-Requisites
 
+## The below machine you dont need to create now.But you must know how to create the ansible lab.
+[Link to How to setup a ansible lab in google cloud ](https://youtu.be/WsJyHG2_uk8) 
+## Before each internship meeting you must have the lab machines created and up and running.
 
   - Linux Admiistration knowledge is must
   - Google cloud or AWS Cloud account should be created and activated - this is really must.In the cloud we can create 3 linux machines.1 server and 2 client machines (node1 & node2)
@@ -95,6 +98,9 @@
 
 # DevOps - CI/CD - Jenkins Learning LAB Pre-Requisites
 
+## The below machine you dont need to create now.But you must know how to create the jenkins server lab.
+[Link to How to install jenins server manually](https://youtu.be/v6oDcuzB9XA) 
+## Before each internship meeting you must have the lab machines created and up and running.
 
 - Linux Admiistration knowledge is must
 - Google cloud account should be created and activated - this is really must.Coz to do this handson lab we need machines like below.
@@ -115,6 +121,9 @@
 
 ****************************************************************************************************
 # Docker Administration Learning LAB Pre-Requisites
+## The below machine you dont need to create now.But you must know how to create the docker lab.
+[Link to How to install docker](https://www.youtube.com/playlist?list=PLh_VNk4-EHTP5rDgNYAWgg1vvcPG8eoIV) 
+## Before each internship meeting you must have the lab machines created and up and running.
 
 - ** please ensure you have the following must be ready if you are planning Docker/Kubernets automation**
 
@@ -139,7 +148,9 @@
  
 
 # Kubernetes Administration Learning LAB Pre-Requisites
-
+## The below machine you dont need to create now.But you must know how to create the docker lab.
+[Link to How to install kubernetes](https://www.youtube.com/playlist?list=PLh_VNk4-EHTMhIR-NIgI4tCEHdO9U-A8F) 
+## Before each internship meeting you must have the lab machines created and up and running.
 
 - Linux Admiistration knowledge is must
 - Ansible Automation/Administration Knowledge is must
