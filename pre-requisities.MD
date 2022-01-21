@@ -121,8 +121,6 @@
 - github.com account need to be created
 - https://travis-ci.org/  account need to be created
 - canister.io account need to be created
-- https://www.freenom.com/ create account
-
 
   ** each VM should be like below **
   
