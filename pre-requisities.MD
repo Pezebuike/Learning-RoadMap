@@ -36,7 +36,7 @@
      [Link to PuttyGenerator Download ](https://the.earth.li/~sgtatham/putty/latest/w64/puttygen.exe) 
      
      - If you dont like putty then you can download putty alternative called mobaxterm software from the following link
-     [Link to Mobaxterm Download ](https://mobaxterm.mobatek.net/download-home-edition.html)
+     [Link to Mobaxterm Home Edition Installer Version Download ](https://download.mobatek.net/2152021112100754/MobaXterm_Installer_v21.5.zip)
 
   - Notepad ++ software installed
   - 3 browsers should be there in the laptop
@@ -63,8 +63,8 @@
 
      [Link to PuttyGenerator Download ](https://the.earth.li/~sgtatham/putty/latest/w64/puttygen.exe) 
      
-    - If you dont like putty then you can download putty alternative called mobaxterm software from the following link
-     [Link to Mobaxterm Download ](https://mobaxterm.mobatek.net/download-home-edition.html)
+     - If you dont like putty then you can download putty alternative called mobaxterm software from the following link
+     [Link to Mobaxterm Home Edition Installer Version Download ](https://download.mobatek.net/2152021112100754/MobaXterm_Installer_v21.5.zip)
 
   - Notepad ++ software installed
   - 3 browsers should be there in the laptop
